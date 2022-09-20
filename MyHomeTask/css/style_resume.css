@@ -1,0 +1,50 @@
+.background_page {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 200%;
+}
+
+.header {
+    display: flex;
+}
+
+#header_right_side {
+    margin-left: 10px;
+}
+
+#main_photo img {
+    width: 200px;
+}
+
+#my_photo {
+    border: 3px solid rgb(4, 154, 4);
+    border-radius: 10px;
+    width: 512px;
+}
+
+.datatime {
+    color:#7a7a78;
+}
+
+.educational_institution, .company_name, #contacts_label, .contacs_data, .skills_title {
+    color: #e86705;
+}
+
+#contacts_title {
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+h3, #contacts_label {
+    font-style: italic;
+    color: rgb(3, 151, 243);
+}
+
+.contacts_title {
+    font-weight: 600;
+} 

@@ -1,0 +1,40 @@
+#judo_info_photo {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#book_info_photo {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#judo_info {
+    width: 50%;
+    margin-right: 15px;
+}
+
+#book_info {
+    width: 50%;
+}
+
+.judo_photo {
+    width: 200px;
+    height: 220px;
+    margin: 5px;
+}
+
+.book_photo {
+    width: 200px;
+}
+
+.hobby_photo {
+    border: 3px solid #00af64;
+    border-radius: 10px;
+}
+
+p {
+    text-align: justify;
+    font-size: 18px;
+}
